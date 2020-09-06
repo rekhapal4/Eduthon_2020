@@ -16,7 +16,7 @@ APK URL: https://drive.google.com/file/d/1OJsQab3eTySGecdxNvpT00TXEV5dnFZB/view?
 2) Click on the apk file.
 3) Install the application from package installer.
 4) Installation will start. Since, it is an unknown application you have to allow certain settings which will be popped-up in the midway of installation and to give access to
-    Google Drive, toggle that also if asked.
+    Google Drive, toggle that also.
 5) It asks for your permission, a window will open so click on 'Install Anyway'.
 6) Run the application 'Moodify' and enjoy the experience.
 
