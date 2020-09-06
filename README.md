@@ -12,10 +12,11 @@ The above video which we made for our project is made by using 'Screen o Matic',
 APK URL: https://drive.google.com/file/d/1OJsQab3eTySGecdxNvpT00TXEV5dnFZB/view?usp=sharing
 
 # Setup Instructions
-1) Acess the apk file using the above Google Drive link.
+1) Access the apk file using the above Google Drive link.
 2) Click on the apk file.
 3) Install the application from package installer.
-4) Installation will start. Since, it is an unknown application you have to allow certain settings which will be popped-up in the midway of installation.
+4) Installation will start. Since, it is an unknown application you have to allow certain settings which will be popped-up in the midway of installation and to give access to
+    Google Drive, toggle that also if asked.
 5) Click on 'Install Anyway'.
 6) Run the application 'Moodify'.
 
