@@ -6,9 +6,7 @@ PPT URL: https://docs.google.com/presentation/d/1ivv8RdYUxO-mZ6E7weET7Vv4iWR7cNx
 
 Video URL: http://youtu.be/SPz0-miKlPM?hd=1
 
-The video which we made for our project is made by using 'Screen o Matic',so in our application there is a part where we used media player and the sound is not clear in that video 
-because we do not have premimum of Screen o Matic, so we just recorded the demo video of our application separately and uploaded it also, incase you want to check whether it is 
-working properly or not, can check this video also once.
+The above video which we made for our project is made by using 'Screen o Matic',so in our application there is a part where we used media player and the sound is not clear in that video because we do not have premimum of Screen o Matic, so we just recorded the demo video of our application separately and uploaded it also, incase you want to check whether it is working properly or not, can check this video also once.
 (URL: https://youtu.be/CjwTDlNaojw )
 
 
